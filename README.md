@@ -1,5 +1,7 @@
 # Parola
 
+[![GitHub stars](https://img.shields.io/github/stars/aovestdipaperino/parola?logo=github&color=brightgreen)](https://github.com/aovestdipaperino/parola/stargazers)
+
 A falling-word typing game for the terminal, rendered with [cfonts](https://crates.io/crates/cfonts) block characters.
 
 Words fall from the top of the screen. Type the letters of the lowest word to clear it before it reaches the bottom. Words change color from cold blue to hot red as they approach the bottom, and correctly typed letters turn green.
